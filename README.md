@@ -9,12 +9,12 @@ Computer with MATLAB software
 
 
 ## Procedure:
-	Open MATLAB software
-	Open a new script file.
-	Type the program.
-	Save and Execute the program.
-	Click on the crossing point of the root locus to find the value of K and poles at the crossing point.
-	From the value of K, analyse the stability.
+1. Open MATLAB software
+2. Open a new script file.
+3. Type the program.
+4. Save and Execute the program.
+5. Click on the crossing point of the root locus to find the value of K and poles at the crossing point.
+6. From the value of K, analyse the stability.
 
 ## Program: 
 ```
