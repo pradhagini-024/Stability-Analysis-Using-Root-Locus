@@ -6,7 +6,8 @@ Computer with MATLAB software
 
 ## Theory:
 
-
+<img width="747" height="1280" alt="image" src="https://github.com/user-attachments/assets/d74b7d0f-a57b-4f94-8018-0bcfa3e6cb55" />
+<img width="837" height="1280" alt="image" src="https://github.com/user-attachments/assets/350d9a51-413d-45f5-848a-de46aab42f4e" />
 
 ## Procedure:
 1. Open MATLAB software
